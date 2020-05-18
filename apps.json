@@ -1,7 +1,7 @@
 {   "apps":[      {
          "name":"Jusax's Geodash",
          "description":"Not mine, but definitly cool",
-         "icon":"http://jusax.de/games/geodash/res/favicon.png"
+         "icon":"http://jusax.de/games/geodash/res/favicon.png",
          "src":"http://jusax.de/games/geodash/"
 }
    
