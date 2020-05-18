@@ -1,5 +1,6 @@
 {   "apps":[      {
          "name":"JSHell",
+         "id": "jshell",
          "description":"Javascript Editor",
          "icon":"https://comcloudway.github.io/JSHell//paper.png",
          "src":"https://comcloudway.github.io/JSHell/"
