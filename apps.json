@@ -1,8 +1,8 @@
 {   "apps":[      {
-         "name":"Demo App",
-         "description":"Demo App chilling its live",
-         "icon":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.EtjpJ-GNZIFrqwRZBm8EugHaHa%26pid%3DApi&f=1"
-      
+         "name":"Jusax's Geodash",
+         "description":"Not mine, but definitly cool",
+         "icon":"http://jusax.de/games/geodash/res/favicon.png"
+         "src":"http://jusax.de/games/geodash/"
 }
    
 ]
