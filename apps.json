@@ -1,8 +1,8 @@
 {   "apps":[      {
-         "name":"Jusax's Geodash",
-         "description":"Not mine, but definitly cool",
-         "icon":"http://jusax.de/games/geodash/res/favicon.png",
-         "src":"https://jusax.de/games/geodash/"
+         "name":"JSHell",
+         "description":"Javascript Editor",
+         "icon":"https://comcloudway.github.io/JSHell//paper.png",
+         "src":"https://comcloudway.github.io/JSHell/"
 }
    
 ]
